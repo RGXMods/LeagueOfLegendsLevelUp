@@ -4,6 +4,8 @@
 ## Notes:  Play a League of Legends-inspired level-up sound!  |n|r  |cffb8881aBy DonnieDice|r
 ## IconTexture: Interface\AddOns\LeagueOfLegendsLevelUp\media\icon
 ## Author: DonnieDice
+## Category: RGX
+## Group: RGX
 ## SavedVariables: LOLLUSettings
 ## RequiredDeps: RGX-Framework
 
