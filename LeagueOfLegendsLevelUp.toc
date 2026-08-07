@@ -1,5 +1,5 @@
 ﻿## Interface: 120007
-## Version: 2.0.2
+## Version: 2.0.3
 ## Title:  |cffb8881aLeague of Legends|r Level Up|cffb8881a!|r
 ## Notes:  Play a League of Legends-inspired level-up sound!  |n|r  |cffb8881aBy DonnieDice|r
 ## IconTexture: Interface\AddOns\LeagueOfLegendsLevelUp\media\icon
