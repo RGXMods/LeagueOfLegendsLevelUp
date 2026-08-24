@@ -10,7 +10,7 @@
 ## RequiredDeps: RGX-Framework
 
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
-## X-Website: https://github.com/donniedice/LeagueOfLegendsLevelUp
+## X-Website: https://github.com/RGXMods/LeagueOfLegendsLevelUp
 ## X-Curse-Project-ID: 594580
 ## X-Wago-ID: R4N2o46L
 ## X-WoWI-ID: 26255
