@@ -11,7 +11,6 @@
 ## X-Website: https://github.com/RGXMods/LeagueOfLegendsLevelUp
 ## X-Curse-Project-ID: 594580
 ## X-Wago-ID: R4N2o46L
-## X-WoWI-ID: 26255
 
 data\locales.lua
 data\core.lua
