@@ -1,9 +1,11 @@
-## Interface: 30403
-## Version: 2.0.1
+﻿## Interface: 38002
+## Version: 2.0.4
 ## Title:  |cffb8881aLeague of Legends|r Level Up|cffb8881a!|r
 ## Notes:  Play a League of Legends-inspired level-up sound!  |n|r  |cffb8881aBy DonnieDice|r
-## IconTexture: Interface\AddOns\LeagueOfLegendsLevelUp\media\icon
+## IconTexture: Interface\AddOns\LeagueOfLegendsLevelUp\media\icon.tga
 ## Author: DonnieDice
+## Category: RGX
+## Group: RGX
 ## SavedVariables: LOLLUSettings
 ## RequiredDeps: RGX-Framework
 
